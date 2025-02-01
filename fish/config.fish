@@ -37,5 +37,9 @@ if status is-interactive
     abbr -a la 'la -la'
 
     fish_add_path ~/.local/bin
+    fish_add_path ~/.cargo/bin
 end
 
+# THEME PURE #
+set fish_function_path /Users/maximsmirnov/.config/fish/functions/theme-pure/functions/ $fish_function_path
+source /Users/maximsmirnov/.config/fish/functions/theme-pure/conf.d/pure.fish
