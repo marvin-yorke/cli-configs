@@ -27,10 +27,6 @@ if status is-interactive
     abbr -a vim nvim
 
     abbr -a lad lazydocker
-    abbr -a lag lazygit
-
-    abbr -a gs 'git status'
-    abbr -a gd 'git diff'
 
     alias ls='eza'
     abbr -a l ls
