@@ -1,0 +1,1 @@
+/Users/maximsmirnov/.config/fish/functions/theme-pure/functions/_pure_prompt_k8s.fish
