@@ -1,1 +1,1 @@
-stow --dotfiles *
+stow --dotfiles */
