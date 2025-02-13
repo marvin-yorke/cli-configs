@@ -1,0 +1,1 @@
+../functions/theme-pure/conf.d/_pure_init.fish

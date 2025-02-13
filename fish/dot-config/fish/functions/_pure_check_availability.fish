@@ -1,0 +1,1 @@
+theme-pure/functions/_pure_check_availability.fish

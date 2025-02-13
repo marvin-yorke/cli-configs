@@ -1,0 +1,19 @@
+font-family = "MonoLisa Trial"
+font-size = 18
+font-codepoint-map = U+F000-U+F2E0=Symbols Nerd Font Mono
+
+theme = light:flexoki-light,dark:Arthur
+
+window-padding-x = 8
+window-padding-balance = true
+window-padding-color = extend
+
+# copy to system clipboard on select
+copy-on-select = clipboard
+
+shell-integration = fish
+
+adjust-cursor-thickness = 200%
+adjust-cursor-height = -20%
+
+minimum-contrast = 1.5

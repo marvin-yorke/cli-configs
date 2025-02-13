@@ -1,0 +1,1 @@
+theme-pure/functions/fish_prompt.fish

@@ -1,0 +1,1 @@
+theme-pure/functions/_pure_prompt_aws_profile.fish
