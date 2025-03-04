@@ -1,0 +1,10 @@
+"$schema" = "https://jj-vcs.github.io/jj/latest/config-schema.json"
+
+[user]
+name = "Max Smirnov"
+email = "max@xmaxsmi.dev"
+
+[fix.tools.clang-format]
+command = ["swiftformat", "stdin", "--stdinpath", "$path"] 
+patterns = ["glob:'**/*.swift'"]
+
