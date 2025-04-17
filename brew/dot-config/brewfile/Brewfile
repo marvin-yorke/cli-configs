@@ -1,0 +1,19 @@
+brew "neovim"
+brew "fd"
+brew "fzf"
+brew "ripgrep"
+brew "eza"
+brew "htop"
+brew "stow"
+brew "xcodes"
+brew "zoxide"
+brew "zellij"
+
+cask "1password"
+cask "fork"
+cask "ghostty"
+cask "raycast"
+cask "zed"
+
+cask hiddenbar
+cask proxyman
